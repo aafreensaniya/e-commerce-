@@ -1,0 +1,24 @@
+.navCard {
+  background-image: linear-gradient(orange, rgb(192, 30, 192));
+  margin-top: 5px;
+}
+input {
+  height: 30px;
+  width: 400px;
+  margin-top: 5px;
+  border-radius: 15px;
+  border-color: orangered;
+  position: relative;
+  margin-right: 500px;
+}
+input:hover {
+  border-color: rgb(68, 245, 14);
+  height: 33px;
+  width: 420px;
+}
+.navbtn:hover {
+  color: rgb(6, 13, 112);
+}
+.leftnvcrd:hover {
+  background-color: rgb(17, 229, 236);
+}
