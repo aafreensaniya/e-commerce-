@@ -22,3 +22,9 @@ input:hover {
 .leftnvcrd:hover {
   background-color: rgb(17, 229, 236);
 }
+
+
+p{
+  color: black;
+  background-color: pink;
+}
